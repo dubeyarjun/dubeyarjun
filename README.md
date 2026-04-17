@@ -39,24 +39,43 @@
 
 ---
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/neeraj-dubey-3b06141b6) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dubeyneeraj412@gmail.com)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,cpp" />
 </p>
 
 ### ⚡ Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🧠 AI/ML Stack
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+ 
+### 🚀 Hosting
+<p>
+  <img src="https://skillicons.dev/icons?i=netlify,vercel" />
 </p>
 
 ### 🛠️ Tools
