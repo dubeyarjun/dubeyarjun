@@ -5,6 +5,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;AI+%2F+ML+Enthusiast;Node.js+Backend+Developer;Open+to+Software+Developer+Opportunities" />
 </p>
 
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]()
+
+
+
 ---
 
 ## 👨‍💻 About Me
@@ -104,6 +108,11 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dubeyarjun&theme=tokyonight" />
 </p>
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dubeyarjun&theme=tokyo-night"/>
+
 ---
 
 
